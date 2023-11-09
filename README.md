@@ -1,0 +1,5 @@
+# FoodOrderingSystem
+oodOrderingSystemGUI is a Java project with a user-friendly graphical interface. It allows users to select items from a menu, calculates the total cost, and displays a receipt. Perfect for Java beginners, the project demonstrates GUI programming using Swing. #Java #SwingGUI #OpenSource
+A Java-based graphical user interface application that mimics a food ordering system may be found in the FoodOrderingSystem repository. Customers can easily place their orders and choose goods from a menu by interacting with the user-friendly interface. The graphical layout provides a captivating user experience and was created with Java's Swing framework.
+
+There are a lot of distinct foods in the application, and a checkbox represents each. The options open to users are "Rice & Beans," "Chapati," "Tea," "Chana Shamosa," "Thali," and "Ice cream." The software determines the total cost of the order when the desired goods have been chosen and the "ORDER" button is hit. A pop-up dialog box with the detailed receipt—along with the selected products and total amount—is then displayed to the user for their review.
